@@ -1,4 +1,5 @@
 # SITE SETTINGS
+remote_theme: peterdesmet/petridish@3.0
 title: Petridish                        # Title in top navigation bar (navbar) and <head>
 author: Peter Desmet                    # Used for copyright statement in footer
 baseurl: "/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
